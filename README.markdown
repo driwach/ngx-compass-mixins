@@ -1,12 +1,10 @@
 # Status
 
-This library is not maintained anymore.
-
-[![Build Status](https://travis-ci.org/Igosuki/compass-mixins.svg?branch=master)](https://travis-ci.org/Igosuki/compass-mixins)
+Supported
 
 # Compass SASS Stylesheets
-
-This is a repository to pull SASS style sheets on Bower, and enjoy the compass mixins by using libsass for faster compilation. This project makes minimal modifications to the original Compass 0.12.X stylesheets from the [original repository](https://github.com/Compass/compass/blob/f9e8b54f41ee349f53413d36785b0f979881e6e3/frameworks/compass/stylesheets), intented to improve libsass compatibility and not change output.
+This repository is fork of 
+[original repository](https://github.com/Igosuki/compass-mixins), intented to fix errors with new sass syntax.
 
 ## Compass Ruby Functions
 
@@ -14,12 +12,9 @@ This project includes reasonably similar implementations of some of the Ruby fun
 
 To make those functions available to your compass mixins, you'll want to either `@import "compass";` or `@import "compass/functions"'` before the specific compass scss files you import.
 
-## Contributors
-Guillaume Balaine Igosuki@github
-Michael Heillein michaek@github
 
 ## License
-Copyright (c) 2008-2009 Christopher M. Eppstein<br>
+Copyright (c) 2021 Mohamed Driwach<br>
 All Rights Reserved.<br>
 Released under a [slightly modified MIT License](https://github.com/Compass/compass/blob/stable/LICENSE.markdown).
 
