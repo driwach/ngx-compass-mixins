@@ -1,6 +1,6 @@
 {
   "name": "ngx-compass-mixins",
-  "version": "0.12.11",
+  "version": "0.0.1",
   "author": {
     "name": "Mohamed Driwach",
     "email": "mohamed@driwach.com",
@@ -10,7 +10,7 @@
   "description": "Compass stylesheets ",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driwach/compass-mixins.git"
+    "url": "git://github.com/driwach/ngx-compass-mixins.git"
   },
   "main": "lib/_compass.scss",
   "keywords": [
